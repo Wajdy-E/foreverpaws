@@ -1,0 +1,342 @@
+[
+  {
+    "name": "Whiskers",
+    "breed": "Siamese",
+    "image": "https://th.bing.com/th/id/OIP.Nnr1ADKFhDAfLw9SSvcW6AAAAA?rs=1&pid=ImgDetMain",
+    "gender": "Male",
+    "age": "3 yrs 2 mo",
+    "location": "Ottawa",
+    "tags": {
+      "type": "Cat",
+      "breed": "Siamese",
+      "age": "Middle aged",
+      "size": "Medium",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Ottawa"
+    }
+  },
+  {
+    "name": "Buddy",
+    "breed": "Golden Retriever",
+    "image": "https://th.bing.com/th/id/R.9003028d7ec6ff58a70a2be15a05ffed?rik=9cLEFO6s9oiGeg&riu=http%3a%2f%2fwww.publicdomainpictures.net%2fpictures%2f40000%2fvelka%2fgolden-retriever-dog-1364426710r9x.jpg&ehk=Z8ZK9mRUJe0rT61EYByfWPUGg1BEToYpGPK3bCz1aTU%3d&risl=&pid=ImgRaw&r=0",
+    "gender": "Male",
+    "age": "5 yrs 5 mo",
+    "location": "Toronto",
+    "tags": {
+      "type": "Dog",
+      "breed": "Golden Retriever",
+      "age": "Middle aged",
+      "size": "Large",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Toronto"
+    }
+  },
+  {
+    "name": "Shadow",
+    "breed": "Persian",
+    "image": "https://preview.redd.it/jei7akpd6t6x.jpg?auto=webp&s=cffe3cdf264f01916f2bc3791e305429e9692a0d",
+    "gender": "Female",
+    "age": "1 yr 3 mo",
+    "location": "Hamilton",
+    "tags": {
+      "type": "Cat",
+      "breed": "Persian",
+      "age": "Young",
+      "size": "Medium",
+      "gender": "Female",
+      "disabled": "No",
+      "location": "Hamilton"
+    }
+  },
+  {
+    "name": "Rex",
+    "breed": "German Shepherd",
+    "image": "https://th.bing.com/th/id/R.3cdf2376398eb6b65e981b94f353e5bd?rik=gI4seszr6%2bYp1g&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f5%2f54%2f20110425_German_Shepherd_Dog_8473.jpg&ehk=U8goxi3WfpEbxp2zMh7WifQpWWXF7YEWFjo6DET3xiQ%3d&risl=1&pid=ImgRaw&r=0",
+    "gender": "Male",
+    "age": "7 yrs 8 mo",
+    "location": "Kingston",
+    "tags": {
+      "type": "Dog",
+      "breed": "German Shepherd",
+      "age": "OLD",
+      "size": "Large",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Kingston"
+    }
+  },
+  {
+    "name": "Mittens",
+    "breed": "Tabby",
+    "image": "https://th.bing.com/th/id/OIP.U0zkghAfCzhbv5FbPShzGgHaFS?rs=1&pid=ImgDetMain",
+    "gender": "Female",
+    "age": "4 yrs 1 mo",
+    "location": "Ottawa",
+    "tags": {
+      "type": "Cat",
+      "breed": "Tabby",
+      "age": "Middle aged",
+      "size": "Medium",
+      "gender": "Female",
+      "disabled": "Yes",
+      "location": "Ottawa"
+    }
+  },
+  {
+    "name": "Bella",
+    "breed": "Beagle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Cute_beagle_puppy_lilly.jpg",
+    "gender": "Female",
+    "age": "2 yrs 6 mo",
+    "location": "Toronto",
+    "tags": {
+      "type": "Dog",
+      "breed": "Beagle",
+      "age": "Young",
+      "size": "Medium",
+      "gender": "Female",
+      "disabled": "No",
+      "location": "Toronto"
+    }
+  },
+  {
+    "name": "Simba",
+    "breed": "Maine Coon",
+    "image": "https://th.bing.com/th/id/OIP.p4qIAmsMC1TBIo5S-sEAHwHaHd?rs=1&pid=ImgDetMain",
+    "gender": "Male",
+    "age": "6 yrs 2 mo",
+    "location": "Hamilton",
+    "tags": {
+      "type": "Cat",
+      "breed": "Maine Coon",
+      "age": "Middle aged",
+      "size": "Large",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Hamilton"
+    }
+  },
+  {
+    "name": "Luna",
+    "breed": "Shih Tzu",
+    "image": "https://th.bing.com/th/id/R.8863e9da94a8f5b98a657c98ecb7c7e3?rik=yMFyC0zkK5ZDPg&pid=ImgRaw&r=0",
+    "gender": "Female",
+    "age": "3 yrs 7 mo",
+    "location": "Kingston",
+    "tags": {
+      "type": "Dog",
+      "breed": "Shih Tzu",
+      "age": "Middle aged",
+      "size": "Small",
+      "gender": "Female",
+      "disabled": "No",
+      "location": "Kingston"
+    }
+  },
+  {
+    "name": "Oscar",
+    "breed": "Ragdoll",
+    "image": "https://www.thesprucepets.com/thmb/3I4LGAJPPMPxWbJGrg4GeZnzoNU=/1080x809/filters:no_upscale():max_bytes(150000):strip_icc()/56902602_414038916065155_4512174701024918698_n-95d7a6c3150e46be804a19a821abeceb.jpg",
+    "gender": "Male",
+    "age": "2 yrs 11 mo",
+    "location": "Ottawa",
+    "tags": {
+      "type": "Cat",
+      "breed": "Ragdoll",
+      "age": "Young",
+      "size": "Large",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Ottawa"
+    }
+  },
+  {
+    "name": "Charlie",
+    "breed": "Labrador",
+    "image": "https://th.bing.com/th/id/R.59d9e68a71759583782b3ff3b57835df?rik=rFiDyvqHz4rLeg&riu=http%3a%2f%2fwallpaperfast.com%2fwp-content%2fuploads%2f2013%2f05%2fLabrador-Retriever-desktop-wallpaper.jpg&ehk=pSaHb09pwgBfCHLYn2HtBKSoVGVk90X5EQVPRQkj%2fqQ%3d&risl=&pid=ImgRaw&r=0",
+    "gender": "Male",
+    "age": "1 yr 9 mo",
+    "location": "Toronto",
+    "tags": {
+      "type": "Dog",
+      "breed": "Labrador",
+      "age": "Young",
+      "size": "Large",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Toronto"
+    }
+  },
+  {
+    "name": "Tigger",
+    "breed": "Bengal",
+    "image": "https://i0.wp.com/petradioshow.com/wp-content/uploads/2014/08/306059656_c4fafc4a87_o.jpg",
+    "gender": "Male",
+    "age": "5 yrs 4 mo",
+    "location": "Hamilton",
+    "tags": {
+      "type": "Cat",
+      "breed": "Bengal",
+      "age": "Middle aged",
+      "size": "Medium",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Hamilton"
+    }
+  },
+  {
+    "name": "Daisy",
+    "breed": "Poodle",
+    "image": "https://cdn.britannica.com/39/233239-050-50C0C3C5/standard-poodle-dog.jpg",
+    "gender": "Female",
+    "age": "4 yrs 3 mo",
+    "location": "Kingston",
+    "tags": {
+      "type": "Dog",
+      "breed": "Poodle",
+      "age": "Middle aged",
+      "size": "Medium",
+      "gender": "Female",
+      "disabled": "No",
+      "location": "Kingston"
+    }
+  },
+  {
+    "name": "Chloe",
+    "breed": "Sphynx",
+    "image": "https://i0.wp.com/www.lifewithcatman.com/wp-content/uploads/2018/03/37004305_508868119547209_4582529976535875584_n.jpg",
+    "gender": "Female",
+    "age": "7 yrs 0 mo",
+    "location": "Ottawa",
+    "tags": {
+      "type": "Cat",
+      "breed": "Sphynx",
+      "age": "OLD",
+      "size": "Small",
+      "gender": "Female",
+      "disabled": "Yes",
+      "location": "Ottawa"
+    }
+  },
+  {
+    "name": "Rocky",
+    "breed": "Boxer",
+    "image": "https://www.animalbehaviorcollege.com/wp-content/uploads/2015/03/the-boxer-dog.jpg",
+    "gender": "Male",
+    "age": "6 yrs 5 mo",
+    "location": "Toronto",
+    "tags": {
+      "type": "Dog",
+      "breed": "Boxer",
+      "age": "Middle aged",
+      "size": "Large",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Toronto"
+    }
+  },
+  {
+    "name": "Leo",
+    "breed": "British Shorthair",
+    "image": "https://catscottishfold.com/wp-content/uploads/2018/08/british_shorthair_tabby_play.jpg",
+    "gender": "Male",
+    "age": "3 yrs 0 mo",
+    "location": "Hamilton",
+    "tags": {
+      "type": "Cat",
+      "breed": "British Shorthair",
+      "age": "Middle aged",
+      "size": "Medium",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Hamilton"
+    }
+  },
+  {
+    "name": "Max",
+    "breed": "Bulldog",
+    "image": "https://cdn.britannica.com/78/232778-050-D3701AB1/English-bulldog-dog.jpg",
+    "gender": "Male",
+    "age": "8 yrs 2 mo",
+    "location": "Kingston",
+    "tags": {
+      "type": "Dog",
+      "breed": "Bulldog",
+      "age": "OLD",
+      "size": "Large",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Kingston"
+    }
+  },
+  {
+    "name": "Nala",
+    "breed": "Abyssinian",
+    "image": "https://www.thesprucepets.com/thmb/7p0TopOHEHX3aQsdYzRdidbS0Lo=/2121x1414/filters:fill(auto,1)/GettyImages-165827729-efc11c02690f457a81ef6ccbfa8eb34d.jpg",
+    "gender": "Female",
+    "age": "2 yrs 5 mo",
+    "location": "Ottawa",
+    "tags": {
+      "type": "Cat",
+      "breed": "Abyssinian",
+      "age": "Young",
+      "size": "Small",
+      "gender": "Female",
+      "disabled": "No",
+      "location": "Ottawa"
+    }
+  },
+  {
+    "name": "Bailey",
+    "breed": "Dachshund",
+    "image": "https://img.thrfun.com/img/180/713/miniature_dachshund_x1.jpg",
+    "gender": "Female",
+    "age": "5 yrs 8 mo",
+    "location": "Toronto",
+    "tags": {
+      "type": "Dog",
+      "breed": "Dachshund",
+      "age": "Middle aged",
+      "size": "Small",
+      "gender": "Female",
+      "disabled": "No",
+      "location": "Toronto"
+    }
+  },
+  {
+    "name": "Jasper",
+    "breed": "Scottish Fold",
+    "image": "https://www.thesprucepets.com/thmb/qJMo6InsbjRlispKlM7WHoibHEo=/2997x0/filters:no_upscale():strip_icc()/scottish-fold-profile-551898-hero-4df6b3c3495b4cbf97b3890dca168540.JPG",
+    "gender": "Male",
+    "age": "4 yrs 6 mo",
+    "location": "Hamilton",
+    "tags": {
+      "type": "Cat",
+      "breed": "Scottish Fold",
+      "age": "Middle aged",
+      "size": "Medium",
+      "gender": "Male",
+      "disabled": "No",
+      "location": "Hamilton"
+    }
+  },
+  {
+    "name": "Molly",
+    "breed": "Cocker Spaniel",
+    "image": "https://th.bing.com/th/id/OIP.bNi4LCFptV9eTLTSon8O5AHaFt?rs=1&pid=ImgDetMain",
+    "gender": "Female",
+    "age": "2 yrs 10 mo",
+    "location": "Kingston",
+    "tags": {
+      "type": "Dog",
+      "breed": "Cocker Spaniel",
+      "age": "Young",
+      "size": "Medium",
+      "gender": "Female",
+      "disabled": "No",
+      "location": "Kingston"
+    }
+  }
+]

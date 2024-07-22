@@ -1,0 +1,198 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --bs-link-color-rgb: #ffffff
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+header a {
+  font-family: "Rubik Bubbles", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+header a{
+  color: white;
+}
+
+header .MuiFormControl-root.css-13sljp9 *{ 
+  color: white !important;
+  border-color: white !important;
+}
+p,
+footer span {
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+button {
+  border-radius: 20px !important;
+  font-weight: bold !important;
+}
+header,
+footer,
+#how-it-works {
+  background-color: #34495e;
+}
+
+.active-link {
+  color: #5d9cec;
+}
+
+.logo {
+  height: 60px;
+  aspect-ratio: 1/1;
+}
+
+.contacts img {
+  height: 60px;
+}
+
+.banner {
+  max-height: 700px ;
+  width: 100%;
+}
+.banner img {
+  object-fit: cover;
+}
+.overlay {
+  background-color: rgba(52, 73, 94, 0.6);
+  z-index: 1;
+}
+
+.position-relative.h-100 {
+  height: 100%;
+}
+
+.text-blue {
+  color: #5d9cec;
+}
+
+.start-20 {
+  left: 20%;
+}
+
+.fs-large {
+  font-size: 64px;
+}
+
+.fs-medium {
+  font-size: 30px;
+}
+
+.client-photo {
+  height: 100px;
+  width: 100px;
+  object-fit: cover;
+}
+
+.what-they-say .col {
+  background-color: #5d9cec;
+  border-radius: 20px;
+  padding: 30px 20px;
+}
+
+div[role="tabpanel"] .MuiBox-root {
+  background-color: rgba(93, 156, 236, 0.5);
+  border-radius: 20px;
+  padding: 20px;
+  margin-top: 20px;
+}
+.nav-link {
+  border-radius: 20px;
+  margin-right: 10px;
+  font-size: 20px;
+}
+.advice-tabs .MuiButtonBase-root[aria-selected="false"] {
+  background-color: rgba(93, 156, 236, 0.5);
+  color: white;
+}
+.advice-tabs .MuiButtonBase-root[aria-selected="true"] {
+  background-color: #5d9cec !important;
+}
+.video-container {
+  margin-bottom: 20px;
+}
+.video-description {
+  text-align: left;
+}
+
+.application h1 {
+  text-decoration: underline #5d9cec;
+}
+
+.application p {
+  font-size: 40px !important;
+}
+
+.pet-card {
+  background-color: #5D9CEC;
+  border-radius: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  text-align: left;
+  margin: 20px;
+  color: white;
+}
+
+.pet-image {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+}
+
+.pet-info {
+  padding: 10px;
+}
+
+.pet-name {
+  margin: 10px 0 5px 0;
+}
+
+.pet-breed {
+  font-size: 0.9em;
+  margin: 0;
+}
+
+.pet-details,
+.pet-location {
+  font-size: 0.8em;
+  margin: 5px 0 0 0;
+}
+
+.filter-sidebar{
+  height: fit-content;
+  top: 2vh;
+  background-color: #34495E;
+  border-radius: 20px;
+}
+
+.filter-sidebar .btn{
+  background-color: #5D9CEC;
+}
+
+.filter-sidebar .MuiPaper-root{
+  margin: 10px 0;
+  border-radius: 20px !important;
+  background-color: #5D9CEC;
+  color: white;
+}
+.MuiTabs-indicator {
+  display: none;
+}
+
+.css-1gsv261{
+  border: none !important;
+}
+
+.faq-accordion::before{
+  width: 0;
+}
